@@ -24,10 +24,6 @@ object fMain: TfMain
     ItemHeight = 13
     TabOrder = 0
     OnClick = lbPluginsClick
-    ExplicitLeft = 8
-    ExplicitTop = 55
-    ExplicitWidth = 605
-    ExplicitHeight = 386
   end
   object Button1: TButton
     Left = 0
@@ -73,7 +69,7 @@ object fMain: TfMain
     SSLOptions.Mode = sslmUnassigned
     SSLOptions.VerifyMode = []
     SSLOptions.VerifyDepth = 0
-    Left = 80
-    Top = 24
+    Left = 56
+    Top = 16
   end
 end
